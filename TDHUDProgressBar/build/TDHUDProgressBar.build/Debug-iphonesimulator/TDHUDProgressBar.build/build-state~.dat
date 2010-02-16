@@ -1,0 +1,237 @@
+TTDHUDProgressBar
+v7
+r0
+t287094758.072556
+cCheck dependencies
+cProcessInfoPlistFile /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/Info.plist TDHUDProgressBar-Info.plist
+cCompileXIB /Users/timgrantdavies/Documents/TDHUDProgressBar/MainWindow.xib
+cProcessPCH /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TDHUDProgressBar_Prefix-bugmyircvkstgpahnugxwwnrmvhb/TDHUDProgressBar_Prefix.pch.gch TDHUDProgressBar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/Objects-normal/i386/main.o /Users/timgrantdavies/Documents/TDHUDProgressBar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/Objects-normal/i386/TDHUDProgressBarAppDelegate.o /Users/timgrantdavies/Documents/TDHUDProgressBar/Classes/TDHUDProgressBarAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/Objects-normal/i386/TDHUDProgressBar.o /Users/timgrantdavies/Documents/TDHUDProgressBar/TDHUDProgressBar.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/TDHUDProgressBar normal i386
+cGenerateDSYMFile /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app.dSYM /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/TDHUDProgressBar
+cTouch /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004B60C7C70000000000000110
+t1264633799
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B567172000000000026F020
+t1263956338
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B56718B0000000000288B20
+t1263956363
+s2657056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B56717E0000000000001355
+t1263956350
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B56A2960000000000000970
+t1263968918
+s2416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B56A324000000000211C6C0
+t1263969060
+s34719424
+
+N/Users/timgrantdavies/Documents/TDHUDProgressBar/Classes/TDHUDProgressBarAppDelegate.h
+c000000004B6C7F79000000000000015C
+t1265401721
+s348
+i<UIKit/UIKit.h>
+
+N/Users/timgrantdavies/Documents/TDHUDProgressBar/Classes/TDHUDProgressBarAppDelegate.m
+c000000004B6C7F79000000000000023A
+t1265401721
+s570
+i"TDHUDProgressBarAppDelegate.h"
+
+N/Users/timgrantdavies/Documents/TDHUDProgressBar/MainWindow.xib
+c000000004B6C80510000000000004505
+t1265401937
+s17669
+
+N/Users/timgrantdavies/Documents/TDHUDProgressBar/TDHUDProgressBar.h
+c000000004B6C804D00000000000000DD
+t1265401933
+s221
+i<UIKit/UIKit.h>
+
+N/Users/timgrantdavies/Documents/TDHUDProgressBar/TDHUDProgressBar.m
+c000000004B6C80630000000000000284
+t1265401955
+s644
+i"TDHUDProgressBar.h"
+
+N/Users/timgrantdavies/Documents/TDHUDProgressBar/TDHUDProgressBar_Prefix.pch
+c000000004B6C7F7900000000000000C9
+t1265401721
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app
+t1265401958
+s204
+
+N/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app.dSYM
+t1265401958
+s102
+
+N/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/Info.plist
+t1265401956
+s633
+
+N/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/MainWindow.nib
+t1265401956
+s1143
+
+N/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/PkgInfo
+t1265401956
+s8
+
+N/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/TDHUDProgressBar
+t1265401957
+s19180
+
+N/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/Objects-normal/i386/TDHUDProgressBar.LinkFileList
+c000000004B6C806400000000000001E5
+t1265401956
+s485
+
+N/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/Objects-normal/i386/TDHUDProgressBar.o
+t1265401957
+s9976
+
+N/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/Objects-normal/i386/TDHUDProgressBarAppDelegate.o
+t1265401957
+s17952
+
+N/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/Objects-normal/i386/main.o
+t1265401957
+s5964
+
+N/Users/timgrantdavies/Documents/TDHUDProgressBar/main.m
+c000000004B6C7F79000000000000016C
+t1265401721
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TDHUDProgressBar_Prefix-bugmyircvkstgpahnugxwwnrmvhb/TDHUDProgressBar_Prefix.pch.gch
+t1265401957
+s13719376
+
+NTDHUDProgressBar-Info.plist
+c000000004B6C7F79000000000000038D
+t1265401721
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies287094756#287094756#0(0"0(0#1#0"31243859861307488#0"0#
+
+CCompileC build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/Objects-normal/i386/TDHUDProgressBar.o /Users/timgrantdavies/Documents/TDHUDProgressBar/TDHUDProgressBar.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287094757.636553
+e287094757.696146
+r1
+xCompileC
+xbuild/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/Objects-normal/i386/TDHUDProgressBar.o
+x/Users/timgrantdavies/Documents/TDHUDProgressBar/TDHUDProgressBar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/timgrantdavies/Documents/TDHUDProgressBar/TDHUDProgressBar.m287094757#287094757#0(0"0(0#0#67"/Users/timgrantdavies/Documents/TDHUDProgressBar/TDHUDProgressBar.m4300903632#2171"    cd /Users/timgrantdavies/Documents/TDHUDProgressBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/TDHUDProgressBar-generated-files.hmap -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/TDHUDProgressBar-own-target-headers.hmap -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/TDHUDProgressBar-all-target-headers.hmap -iquote /Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/TDHUDProgressBar-project-headers.hmap -F/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/include -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/DerivedSources/i386 -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/DerivedSources -include /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TDHUDProgressBar_Prefix-bugmyircvkstgpahnugxwwnrmvhb/TDHUDProgressBar_Prefix.pch -c /Users/timgrantdavies/Documents/TDHUDProgressBar/TDHUDProgressBar.m -o /Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/Objects-normal/i386/TDHUDProgressBar.o0#
+
+CCompileC build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/Objects-normal/i386/TDHUDProgressBarAppDelegate.o /Users/timgrantdavies/Documents/TDHUDProgressBar/Classes/TDHUDProgressBarAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287094757.453080
+e287094757.642057
+r1
+xCompileC
+xbuild/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/Objects-normal/i386/TDHUDProgressBarAppDelegate.o
+x/Users/timgrantdavies/Documents/TDHUDProgressBar/Classes/TDHUDProgressBarAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/timgrantdavies/Documents/TDHUDProgressBar/Classes/TDHUDProgressBarAppDelegate.m287094757#287094757#0(0"0(0#0#86"/Users/timgrantdavies/Documents/TDHUDProgressBar/Classes/TDHUDProgressBarAppDelegate.m4300903632#2201"    cd /Users/timgrantdavies/Documents/TDHUDProgressBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/TDHUDProgressBar-generated-files.hmap -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/TDHUDProgressBar-own-target-headers.hmap -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/TDHUDProgressBar-all-target-headers.hmap -iquote /Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/TDHUDProgressBar-project-headers.hmap -F/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/include -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/DerivedSources/i386 -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/DerivedSources -include /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TDHUDProgressBar_Prefix-bugmyircvkstgpahnugxwwnrmvhb/TDHUDProgressBar_Prefix.pch -c /Users/timgrantdavies/Documents/TDHUDProgressBar/Classes/TDHUDProgressBarAppDelegate.m -o /Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/Objects-normal/i386/TDHUDProgressBarAppDelegate.o0#
+
+CCompileC build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/Objects-normal/i386/main.o /Users/timgrantdavies/Documents/TDHUDProgressBar/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287094757.450886
+e287094757.636442
+r1
+xCompileC
+xbuild/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/Objects-normal/i386/main.o
+x/Users/timgrantdavies/Documents/TDHUDProgressBar/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/timgrantdavies/Documents/TDHUDProgressBar/main.m287094757#287094757#0(0"0(0#0#55"/Users/timgrantdavies/Documents/TDHUDProgressBar/main.m4300903632#2147"    cd /Users/timgrantdavies/Documents/TDHUDProgressBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/TDHUDProgressBar-generated-files.hmap -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/TDHUDProgressBar-own-target-headers.hmap -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/TDHUDProgressBar-all-target-headers.hmap -iquote /Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/TDHUDProgressBar-project-headers.hmap -F/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/include -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/DerivedSources/i386 -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/DerivedSources -include /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TDHUDProgressBar_Prefix-bugmyircvkstgpahnugxwwnrmvhb/TDHUDProgressBar_Prefix.pch -c /Users/timgrantdavies/Documents/TDHUDProgressBar/main.m -o /Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/timgrantdavies/Documents/TDHUDProgressBar/MainWindow.xib
+s287094756.202430
+e287094756.586583
+r1
+xCompileXIB
+x/Users/timgrantdavies/Documents/TDHUDProgressBar/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib287094756#287094756#0(0"0(0#0#63"/Users/timgrantdavies/Documents/TDHUDProgressBar/MainWindow.xib4300903632#519"    cd /Users/timgrantdavies/Documents/TDHUDProgressBar    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/MainWindow.nib /Users/timgrantdavies/Documents/TDHUDProgressBar/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app.dSYM /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/TDHUDProgressBar
+s287094757.998308
+e287094758.040746
+r1
+xGenerateDSYMFile
+x/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app.dSYM
+x/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/TDHUDProgressBar
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/TDHUDProgressBar.app.dSYM build/Debug-iphonesimulator/TDHUDProgressBar.app/TDHUDProgressBar287094757#287094758#0(0"0(0#0#114"/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/TDHUDProgressBar4300903632#440"    cd /Users/timgrantdavies/Documents/TDHUDProgressBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/TDHUDProgressBar -o /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app.dSYM0#
+
+CLd /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/TDHUDProgressBar normal i386
+s287094757.696290
+e287094757.998205
+r1
+xLd
+x/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/TDHUDProgressBar
+xnormal
+xi386
+lSLF07#2@119"Link /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/TDHUDProgressBar287094757#287094757#0(0"0(0#0#0"4300903632#957"    cd /Users/timgrantdavies/Documents/TDHUDProgressBar    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator -F/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator -filelist /Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/Objects-normal/i386/TDHUDProgressBar.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/TDHUDProgressBar0#
+
+CProcessInfoPlistFile /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/Info.plist TDHUDProgressBar-Info.plist
+s287094756.172590
+e287094756.202331
+r1
+xProcessInfoPlistFile
+x/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/Info.plist
+xTDHUDProgressBar-Info.plist
+lSLF07#2@35"Process TDHUDProgressBar-Info.plist287094756#287094756#0(0"0(0#0#76"/Users/timgrantdavies/Documents/TDHUDProgressBar/TDHUDProgressBar-Info.plist22518290200199240#536"    cd /Users/timgrantdavies/Documents/TDHUDProgressBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TDHUDProgressBar-Info.plist -genpkginfo /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app/Info.plist0#
+
+CProcessPCH /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TDHUDProgressBar_Prefix-bugmyircvkstgpahnugxwwnrmvhb/TDHUDProgressBar_Prefix.pch.gch TDHUDProgressBar_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s287094756.586774
+e287094757.450752
+r1
+xProcessPCH
+x/var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TDHUDProgressBar_Prefix-bugmyircvkstgpahnugxwwnrmvhb/TDHUDProgressBar_Prefix.pch.gch
+xTDHUDProgressBar_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile TDHUDProgressBar_Prefix.pch287094756#287094757#0(0"0(0#0#76"/Users/timgrantdavies/Documents/TDHUDProgressBar/TDHUDProgressBar_Prefix.pch4300903632#2020"    cd /Users/timgrantdavies/Documents/TDHUDProgressBar    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/TDHUDProgressBar-generated-files.hmap -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/TDHUDProgressBar-own-target-headers.hmap -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/TDHUDProgressBar-all-target-headers.hmap -iquote /Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/TDHUDProgressBar-project-headers.hmap -F/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/include -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/DerivedSources/i386 -I/Users/timgrantdavies/Documents/TDHUDProgressBar/build/TDHUDProgressBar.build/Debug-iphonesimulator/TDHUDProgressBar.build/DerivedSources -c /Users/timgrantdavies/Documents/TDHUDProgressBar/TDHUDProgressBar_Prefix.pch -o /var/folders/ht/htlIddnWEp0eKre-Kzc0X++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TDHUDProgressBar_Prefix-bugmyircvkstgpahnugxwwnrmvhb/TDHUDProgressBar_Prefix.pch.gch0#
+
+CTouch /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app
+s287094758.040835
+e287094758.072473
+r1
+xTouch
+x/Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app
+lSLF07#2@103"Touch /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app287094758#287094758#0(0"0(0#0#0"4300903632#307"    cd /Users/timgrantdavies/Documents/TDHUDProgressBar    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/timgrantdavies/Documents/TDHUDProgressBar/build/Debug-iphonesimulator/TDHUDProgressBar.app0#
+
