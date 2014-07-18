@@ -1,15 +1,11 @@
-==============================
-TDHUDProgressBar by Tim Davies
-==============================
-
+# TDHUDProgressBar by Tim Davies
 A progress bar class with a HUD appearance and the ability to animate to progress values.
+
+!(http://up.tmdvs.me/image/2q2l1A251A3X/d)[Screen Shot]
 
 PLEASE CREDIT THE AUTHOR OF THIS CLASS IN YOUR WORK WITH MENTION OF CLASS USED AND THEIR FULL NAME (Tim Davies).
 
-=========================================
-		LICENSE
-=========================================
-
+# License
 It is important when using this class that you credit the author within your credits.
 
 THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENCE ("CCPL" OR "LICENCE"). 
