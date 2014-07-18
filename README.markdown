@@ -1,7 +1,7 @@
 # TDHUDProgressBar by Tim Davies
 A progress bar class with a HUD appearance and the ability to animate to progress values.
 
-!(http://up.tmdvs.me/image/2q2l1A251A3X/d)[Screen Shot]
+![Screen Shot](http://up.tmdvs.me/image/2q2l1A251A3X/d)
 
 PLEASE CREDIT THE AUTHOR OF THIS CLASS IN YOUR WORK WITH MENTION OF CLASS USED AND THEIR FULL NAME (Tim Davies).
 
